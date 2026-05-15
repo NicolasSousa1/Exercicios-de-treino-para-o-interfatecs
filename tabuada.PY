@@ -2,5 +2,5 @@ print("HELLO WORLD!")
 
 num = int(input("Digite um numero: "))
 
-for i in range(1, 10):
+for i in range(1, 11):
     print(f"{num} x {i} = {num * i}")
